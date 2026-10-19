@@ -1,8 +1,8 @@
 # Hi there, I'm Himanshu Jangid 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshujangid)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/himanshujangid676/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/himanshujangid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-jangid-a08589323/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jangidhimanshu/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jangidhimanshu2006)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jangidhimanshu676@gmail.com)
 
 ---
@@ -61,6 +61,6 @@
 
 ### 📫 Connect With Me
 - **Email:** [jangidhimanshu676@gmail.com](mailto:jangidhimanshu676@gmail.com)
-- **LinkedIn:** [linkedin.com/in/himanshujangid](https://linkedin.com/in/himanshujangid)
-- **LeetCode:** [leetcode.com/u/himanshujangid676](https://leetcode.com/u/himanshujangid676/)
-- **Codeforces:** [codeforces.com/profile/himanshujangid](https://codeforces.com/profile/himanshujangid)
+- **LinkedIn:** [himanshu-jangid-a08589323](https://www.linkedin.com/in/himanshu-jangid-a08589323/)
+- **LeetCode:** [jangidhimanshu](https://leetcode.com/u/jangidhimanshu/)
+- **Codeforces:** [jangidhimanshu2006](https://codeforces.com/profile/jangidhimanshu2006)
